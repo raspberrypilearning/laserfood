@@ -5,3 +5,6 @@ Now all that remains is to use the stencil. If you’re painting, lay your stenc
 If you’re sprinkling powder directly on to your food, hold the stencil as low as possible without touching, for a clearer image. Sprinkle fine powders through a sieve to get even distribution. And that’s it! Go mad with designs, see what works, and what doesn’t, and play around!
 
 This tutorial first appeared in HackSpace magazine issue 3, which you can download for free from [hsmag.cc](https://hsmag.cc){:target="_blank"}. Follow HackSpace magazine to get your fill of making every month.
+
+![Once you've finished, sit back and enjoy the fruits of your labours](images/coffee.jpg)
+

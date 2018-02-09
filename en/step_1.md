@@ -19,6 +19,8 @@ For rigid stencils, you just need material that’s not going to contaminate wha
 * Edible adhesive
 * Cocoa powder, hundreds-and-thousands or other sprinkling medium
 
+![This cake was made by painting watered-down glucose through a Mylar stencil onto roll out icing, and applying green sugar crystals](images/cake.jpg)
+
 ### Author
 By Archie Roques. By day a humble A level student, by night a hardware engineer, Norwich Hackspacer, and general projects man. Also blogs at roques.xyz.
 
