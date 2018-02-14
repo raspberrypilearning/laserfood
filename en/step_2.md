@@ -7,6 +7,7 @@ If you want to make a stencil from an existing image, you need to generate paths
 If you’re designing something custom to cut, QCAD may be easier, especially if you’re not well-versed in graphics software. Draw out the design you want with the tools on the left-hand side of the window, (again bearing in mind that anything inside the outermost line won’t show up – use stencil fonts to help with this). 
 
 When you’ve got a design you’re happy with, draw an outline as big as you want the stencil. Position the image in the middle, leaving about 25mm safety margin around the actual image (you’ll need to hold/support it when applying). Save it as a DXF file, (or whatever your laser-cutter software accepts). 
+
 You’ll need to import the design into your laser-cutter software, and select an appropriate cutting speed and power. We successfully cut our X mm Mylar at about 50% power and 100 mm s-1 on a 30 W cutter. Position your design, and get cutting. 
 
 After your design is finished, the next step is to wash it thoroughly, if you’re applying it directly to food. Wash it with hot water and washing up liquid several times, (not with a dishwasher though – it’s likely to do funny things to the plastic). 
