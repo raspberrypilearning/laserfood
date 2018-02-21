@@ -22,6 +22,6 @@ For rigid stencils, you just need material that’s not going to contaminate wha
 ![This cake was made by painting watered-down glucose through a Mylar stencil onto roll out icing, and applying green sugar crystals](images/cake.JPG)
 
 ### Author
-By Archie Roques. By day a humble A level student, by night a hardware engineer, Norwich Hackspacer, and general projects man. Also blogs at [roques.xyz](roques.xyz){:target="_blank"}.
+By Archie Roques — by day a humble A Level student, by night a hardware engineer, Norwich Hackspacer, and general projects man. Also blogs at [roques.xyz](roques.xyz){:target="_blank"}.
 
 This tutorial first appeared in HackSpace magazine issue 3, which you can download for free from [hsmag.cc](https://hsmag.cc){:target="_blank"}. Follow HackSpace magazine to get your fill of making every month.
