@@ -13,7 +13,7 @@ For rigid stencils, you just need material that’s not going to contaminate wha
 ### What you'll need
 
 * Laser cutter
-* Computer with 2D CAD software (Inkscape and QCAD are good free programs)
+* Computer with 2D CAD software ([Inkscape](https://inkscape.org/en/){:target="_blank"} and [QCAD](https://qcad.org/en/){:target="_blank"} are good free programs)
 * Food-safe sheet material 
 * Washing-up equipment
 * Edible adhesive
