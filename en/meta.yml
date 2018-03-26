@@ -2,15 +2,19 @@ title: Laser cut stencils for decorating food
 hero_image: images/banner.jpg
 description: Use a hackspace workhorse to make professional-looking edible treats
 theme: blue # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 # possible values: 1, 2 or 3
+duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum: 
-interests: 
-technologies: 
+curriculum: 0, design- , programming- , phys-comp- , manufacture- , community- 
+interests: ''
+technologies: ''
 site_areas: HackSpace
-steps:
-  - title: Introduction
-  - title: Picking your design
-  - title: Decorating
+hardware: ''
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps: 
+- title: Introduction
+- title: Picking your design
+- title: Decorating
