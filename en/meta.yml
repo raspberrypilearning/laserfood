@@ -17,7 +17,5 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Picking your design
-  completion: internal
 - title: Decorating
